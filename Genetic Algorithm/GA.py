@@ -1,5 +1,5 @@
 # 5 Langkah AG, 1. Init Populasi, 2. Seleksi, 3. Reproduksi, 4. Elitism, 5. Output
-
+#%%
 # 1. Inisialisasi Populasi
  
 # y = 15x - x^2
@@ -15,7 +15,6 @@ anak = [[0 for i in range(cols)] for j in range(rows)]
 print (anak)
 
 # Inisialisasi Paramater
-
 Pc = 0.7
 Pm = 0.3
 #%%
@@ -78,7 +77,7 @@ angkaFitness = [0 for i in range(epochs)]
 
 # Hitung dulu nilai fitness untuk induk
 for j in range (N):
-    if (hitungFitness(induk[j]>MaxFitness[0])):
+    if (hitungFitness(induk[j]) > MaxFitness[0]):
         MaxFitness[0] = hitungFitness(induk[j])
 
 print(MaxFitness)
@@ -117,7 +116,8 @@ while i < epochs:
         if (hitungFitness(anak[j]) > maxFit):
             maxFit = hitungFitness(anak[j])
             idxanak = j
-    # Bandingkan
+
+    # Bandingkan individiual replacement
     if (minFitness < maxFit):
         induk[idx] = anak[idxanak]
     
