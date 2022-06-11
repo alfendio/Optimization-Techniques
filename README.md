@@ -1,4 +1,4 @@
-# Optimization Techniques 🚀 
+# 🚀 Optimization Techniques 
 
 ## Genetic Algorithm 🧬
 ### 4th Class Meeting (31 May 2022)
