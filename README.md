@@ -24,3 +24,9 @@ GA basic procedure:
 
 ## Differential Evolution for Continuous Problem 👩‍🔬
 ### Coursework 2
+- Implementation of the DE algorithm for continuous problem on two x variables, to find the minimum with the sphere function f(x) = sum(xi^2), with the lower limit = -10, and the upper limit = 10.
+- Continuous problem is a  problem whose decision variables are expressed in continuous values.
+- Continuous problems can be divided into:
+1. Unimodal function: a function that has only 1 extreme value (maximum/minimum).
+2. Multimodal function: a function that only has >1 extreme value (maximum/minimum) so that it has a local optima value.
+
