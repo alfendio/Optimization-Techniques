@@ -21,3 +21,6 @@ GA basic procedure:
 - Differential evolution (DE) is a population-based metaheuristic.
 - DE was introduced by Storn and Price as a metaheuristic method for solving continuous problems (Storn and Price 1995).
 - DE has 3 control parameters, namely population size, F scale factor, and CR crossover probability.
+
+## Differential Evolution for Continuous Problem 👩‍🔬
+### Coursework 2
