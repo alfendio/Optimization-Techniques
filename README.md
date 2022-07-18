@@ -30,3 +30,21 @@ GA basic procedure:
 1. Unimodal function: a function that has only 1 extreme value (maximum/minimum).
 2. Multimodal function: a function that only has >1 extreme value (maximum/minimum) so that it has a local optima value.
 
+## Harmony Search Algorithm 🎼
+### Coursework 3
+- Harmony Search is a metaheuristic method inspired by the process of improvising music, especially jazz music. 
+- This method was introduced by Geem Kim and Loganathan in 2001. 
+- There are 3 possibilities in improvising music with Harmony Search, which are expressed in HMCR, PAR and Random Selection.
+
+## Ant Colony Optimization 🐜
+### 10th Class Meeting (28 June 2022)
+- The process of foraging ant colonies is used as an analogy in ant colony optimization (ACO).
+- This method was introduced by Marco Dorigo in 1992.
+- In ACO, evaporation and pheromone deposition process is very important in balancing intensification and diversification.
+
+## Particle Swarm Optimization 🐟🐦
+### 12th Class Meeting (5 July 2022)
+- Particle swarm optimization (PSO) is a population based stochastic optimization technique that is inspired by the intelligent collective behaviour of certain animals, such as flocks of birds or schools of fish.
+
+
+
